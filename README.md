@@ -35,7 +35,7 @@
 </div>
 
 
-<code><img width="0" height="0" src="https://api.jalaljaleh.workers.dev/notification"></code>
+
 ---
 
 ## 📈 GitHub Stats
