@@ -29,20 +29,14 @@
 
 </div>
 
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0c0c,100:1a1a1a&height=2" width="80%" />
 </div>
 
 ### 🩶 About
-
 I’m **Jalal**, a backend and desktop software engineer specializing in **.NET ecosystems**.  
 I build **API clients, automation bots, and developer tools** that focus on performance, clarity, and reliability.  
 Most of my public work is on **NuGet** and open-source repositories here on GitHub.
-
----
-
 
 ### 📦 NuGet Packages
 | Package | Downloads | Frameworks | Description |
@@ -51,7 +45,6 @@ Most of my public work is on **NuGet** and open-source repositories here on GitH
 | [**Dynastio.Api**](https://www.nuget.org/packages/Dynastio.Api) *(deprecated)* | ![Downloads](https://img.shields.io/nuget/dt/Dynastio.Api?color=303030&style=flat-square) | .NET 5 / 4.6.1 | Legacy API client for Dynast.io |
 | [**Nobitex.Net**](https://www.nuget.org/packages/Nobitex.Net) | ![Downloads](https://img.shields.io/nuget/dt/Nobitex.Net?color=303030&style=flat-square) | .NET 9+ | Lightweight Nobitex crypto exchange client (DI + rate limit) |
 
----
 
 ## 📊 GitHub Analytics
 
@@ -67,7 +60,7 @@ Most of my public work is on **NuGet** and open-source repositories here on GitH
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalaljaleh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
+
 
 
 
