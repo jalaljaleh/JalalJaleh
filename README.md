@@ -42,28 +42,21 @@
 
 
 ## 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jalaljaleh&show_icons=true&theme=codeSTACKr&hide_border=true" alt="Jalal's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalaljaleh&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalaljaleh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
 
-
-
-### ☕ Support
+## ☕ Support
 If you like my work or use my libraries, consider supporting further development:
 
 **BTC (SegWit):**  
 `bc1q7uqx2p6cchzyk4k0s99pt2nk89twnk8e6dcp2j`  
+
+
 **USDT (BEP20):**  
 `0x4681e0b0197a46af59eae7650d5960f3277076ac`
 
