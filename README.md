@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-<h1 style="color:#d9d9d9;">🕶️ Jalal Jaleh</h1>
+<h1 style="color:#d9d9d9;">Mohammad Jalal Jaleh</h1>
 <p style="color:#777;">.NET Developer • NuGet Author • API & Bot Engineer</p>
 
 <p>
