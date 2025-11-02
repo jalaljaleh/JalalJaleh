@@ -2,25 +2,23 @@
 
 <br />
 <div align="center">
+  
+# Mohammad Jalal Jaleh
 
-<h1 style="color:#d9d9d9;">Mohammad Jalal Jaleh</h1>
-<p style="color:#777;">.NET Developer • NuGet Author • API & Bot Engineer</p>
+### .NET Developer • NuGet Author • API & Bot Engineer
 
-<p>
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" alt=".NET" />
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" alt="C#" />
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nuget/nuget.png" alt="NuGet" />
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" alt="SQL" />
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="MongoDB" />
-  <img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" />
-</p>
+
+  
+ I’m **Jalal**, a backend and desktop software engineer specializing in **.NET ecosystems**.  I build **API clients, automation bots, and developer tools** that focus on performance, clarity, and reliability. Most of my public work is on **NuGet** and open-source repositories here on GitHub.
+
+
 
 <p>
   <a href="https://www.nuget.org/profiles/JalalJale">
     <img src="https://img.shields.io/badge/NuGet-JalalJale-1B1F23?logo=nuget&logoColor=white&style=flat-square" />
   </a>
   <a href="https://github.com/jalaljaleh">
-    <img src="https://komarev.com/ghpvc/?username=jalaljaleh&style=flat-square&color=555" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=jalaljaleh&style=flat-square" alt="Profile views" />
   </a>
   <a href="https://discord.gg/x5j4cZtnWR" target="_blank">
     <img src="https://img.shields.io/discord/875716592770637824?color=5865F2&label=Discord&logo=discord&logoColor=white&style=flat-square" alt="Discord" />
@@ -33,10 +31,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c0c0c,100:1a1a1a&height=2" width="80%" />
 </div>
 
-### 🩶 About
-I’m **Jalal**, a backend and desktop software engineer specializing in **.NET ecosystems**.  
-I build **API clients, automation bots, and developer tools** that focus on performance, clarity, and reliability.  
-Most of my public work is on **NuGet** and open-source repositories here on GitHub.
+
 
 ### 📦 NuGet Packages
 | Package | Downloads | Frameworks | Description |
