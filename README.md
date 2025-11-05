@@ -14,6 +14,9 @@
 
 
 <p>
+  <a href="https://t.me/halunteam" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Halun%20Team-26A5E4?logo=telegram&logoColor=white&style=flat-square" alt="Telegram" />
+  </a>
   <a href="https://www.nuget.org/profiles/JalalJale">
     <img src="https://img.shields.io/badge/NuGet-JalalJale-1B1F23?logo=nuget&logoColor=white&style=flat-square" />
   </a>
